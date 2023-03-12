@@ -4,7 +4,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" height="350" />
 
 As a Full Stack Developer with extensive experience in React and Node.js, I am passionate about creating robust, scalable applications that deliver a seamless user experience. With a deep understanding of the latest technologies and best practices, I am committed to delivering high-quality code that meets project requirements and exceeds client expectations.
 
