@@ -1,7 +1,6 @@
- <h1 align="center" >Web Full Stack Developer</h1>
+<img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Hello there! 🙏 Please star <a href="https://github.com/v08nike/v08nike">my profile</a>! Thank you!
-
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Welcome to my GitHub profile! 🚀
 
 ### 👨🏻‍💻 &nbsp;About Me
 <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" height="350" />
