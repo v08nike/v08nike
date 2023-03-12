@@ -3,12 +3,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;Welcome to my GitHub profile! 🚀
 
 ### 👨🏻‍💻 &nbsp;About Me
-<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" />
 
 As a Full Stack Developer with extensive experience in React and Node.js, I am passionate about creating robust, scalable applications that deliver a seamless user experience. With a deep understanding of the latest technologies and best practices, I am committed to delivering high-quality code that meets project requirements and exceeds client expectations.
 
 Whether working on the front-end or back-end, I have a proven track record of delivering innovative solutions that solve complex problems. My technical expertise includes React, Node.js, Express, MongoDB, HTML, CSS, and JavaScript, and I am always exploring new tools and frameworks to enhance my skills.
-
+  
 As a collaborative team member, I thrive in fast-paced environments where creativity and problem-solving are valued. I am skilled in working with stakeholders to gather requirements, develop project plans, and manage timelines, and I am committed to delivering projects on-time and on-budget.
 
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. Thank you for your consideration.
