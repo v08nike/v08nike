@@ -5,7 +5,7 @@
 
 As a seasoned Full Stack Developer specializing in React, Node.js, Java, Python, C#, I excel at crafting robust and scalable applications for a seamless user experience. My commitment to delivering high-quality code aligns with project requirements and surpasses client expectations.
 
-Whether tackling front-end or back-end challenges, I have a proven track record of providing innovative solutions. My technical toolkit includes React, Node.js, Express, MongoDB, HTML, CSS, and JavaScript, with a continuous exploration of new tools and frameworks to augment my skills.
+Whether tackling front-end or back-end challenges, I have a proven track record of providing innovative solutions. My technical toolkit includes React, Node.js, Python, Java, HTML, CSS, and JavaScript, with a continuous exploration of new tools and frameworks to augment my skills.
 
 ## 🛠️ Languages and Tools
 
